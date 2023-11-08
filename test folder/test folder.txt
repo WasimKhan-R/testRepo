@@ -1,2 +1,6 @@
 merge for check by wasim
+<<<<<<< HEAD
 talib
+=======
+wasim
+>>>>>>> e424bed2d0dfcb485c199356e862603b7b7ae49f
