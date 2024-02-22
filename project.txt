@@ -1,6 +1,0 @@
-this file for wasim
-file  test by wasim
-test
-
-git ignore check
-check 2
